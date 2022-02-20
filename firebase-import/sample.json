@@ -1,0 +1,26 @@
+{
+    "2019-10-01": {
+        "UP": {"ticker":"00003",
+            "name":"abc", 
+            "sector":"car",
+            "signal":"UP"},
+
+
+            {"ticker":"00003","name":"abc", "sector":"car"},{"ticker":"00003","name":"abc", "sector":"car"}
+    "DOWN": {"ticker":"00003",
+        "name":"abc", 
+        "sector":"car"},
+        {"ticker":"00003","name":"abc", "sector":"car"},{"ticker":"00003","name":"abc", "sector":"car"}
+}
+    },
+    "2019-10-03": {
+        "UP": {"ticker":"00003",
+                "name":"abc", 
+                "sector":"car"},
+                {"ticker":"00003","name":"abc", "sector":"car"},{"ticker":"00003","name":"abc", "sector":"car"}
+        "DOWN": {"ticker":"00003",
+            "name":"abc", 
+            "sector":"car"},
+            {"ticker":"00003","name":"abc", "sector":"car"},{"ticker":"00003","name":"abc", "sector":"car"}
+    }
+}
